@@ -3,8 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaelnawasany1&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaelnawasany1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaelnawasany1" alt="mostafaelnawasany1" /></a> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaelnawasany1" />
+		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="mostafaelnawasany1" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="mostafaelnawasany1" />
 <h3 align="left">Connect with me:</h3>
+https://labelbox.com/blog/it-all-boils-down-to-the-training-data/
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-hassan-elnawasany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-hassan-elnawasany" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19516529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19516529" height="30" width="40" /></a>

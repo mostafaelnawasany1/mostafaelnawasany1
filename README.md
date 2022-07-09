@@ -1,15 +1,13 @@
 <br>
 
-<h2 align="center">A Data engineer from Egypt</h2>
+<h2 align="center">A Data Engineer </h2>
 
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafaelnawasany1&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaelnawasany1" />
 		
-		   <img src="https://img.shields.io/github/followers/mostafaelnawasany1?label=Followers" alt="mostafaelnawasany1" />
-
-	<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+		  
 
 - 🌱 I’m currently learning `Dataops` and `MLops`
 - 📫 How to reach me **mostafa.hassan.info@gmail.com**

@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning `Dataops` and `MLops`
 - 📫 How to reach me **mostafa.hassan.info@gmail.com**
-- :thinking: I’m searching for  a new challenges , this is [MY RESUME]().
+- :thinking: I’m searching for  a new challenges [ schedul a meeting ](https://calendly.com/mostafa-hassan-elnawasany), this is [MY RESUME](https://linqapp.com/Home).
 -  Always `learning new things`
 -  Doing my best 
 
